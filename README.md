@@ -10,3 +10,4 @@ A collection of my small web development projects.
 - [Todo App](./todo-app)
 - [Image search engine](./Image-search-engine/)
 - [Stopwatch](./stopwatch/)
+- [Music Player Card](./Music%20Player%20Card/)
