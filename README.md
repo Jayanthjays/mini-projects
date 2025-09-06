@@ -11,3 +11,5 @@ A collection of my small web development projects.
 - [Image search engine](./Image%20search%20engine/)
 - [Stopwatch](./stopwatch/)
 - [Music Player Card](./Music%20Player%20Card/)
+- [Toast Notification Side Popup](./Toast%20Notification%20side%20popup/)
+- [Image Gallery Slider](./Image%20gallery/)
