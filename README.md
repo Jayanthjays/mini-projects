@@ -10,6 +10,7 @@ A collection of my small web development projects.
 - [05-Stopwatch](./05-Stopwatch/)
 - [06-Toast Notification Side Popup](./06-Toast-Notification-side-popup/)
 - [07-Recepie Finder](./07-Recipe-Finder/)
+- [08-Contact me card](./08-Contact-me-card/)
 
 - [Counter Program](./CounterProgram/)
 - [Random Number Generator](./Random%20Number%20Generator/)
