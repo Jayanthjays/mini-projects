@@ -1,6 +1,6 @@
 # My Mini Projects 🚀
 
-A collection of my small web development projects.
+A collection of my small web development projects...
 
 ## Projects
 - [01-Image search engine](./01-Image-search-Engine/)
