@@ -11,8 +11,10 @@ A collection of my small web development projects...
 - [06-Toast Notification Side Popup](./06-Toast-Notification-side-popup/)
 - [07-Recepie Finder](./07-Recipe-Finder/)
 - [08-Contact me card](./08-Contact-me-card/)
+- [09-Currency Converter](./09-Currency-Converter//)
 
 - [Counter Program](./CounterProgram/)
 - [Random Number Generator](./Random%20Number%20Generator/)
 - [Random Password Generator](./random%20pass%20gen/)
+
 - [Todo App](./todo-app)
